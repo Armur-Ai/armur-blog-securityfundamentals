@@ -7,12 +7,35 @@
   </url><url>
     <loc>http://localhost:1313/security-fundamentals/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/security-fundamentals/</loc>
-    <lastmod>2024-07-11T12:20:27+05:30</lastmod>
+    <loc>http://localhost:1313/security-fundamentals/docs/hacks/</loc>
   </url><url>
-    <loc>http://localhost:1313/security-fundamentals/docs/security-fundamentals/</loc>
-    <lastmod>2024-07-11T12:20:27+05:30</lastmod>
+    <loc>http://localhost:1313/security-fundamentals/docs/reverse/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/hacks/hacks/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/reverse/reverse/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/web/web/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/funda/funda/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/funda/funda/3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/funda/funda/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/funda/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/hacks/hacks/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/reverse/reverse/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/web/web/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/</loc>
+    <lastmod>2024-07-11T12:16:25+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/security-fundamentals/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/security-fundamentals/docs/web/</loc>
   </url>
 </urlset>

@@ -14,9 +14,10 @@
 
 <html lang="en-us"><head><script src="/security-fundamentals/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=security-fundamentals/livereload" data-no-instant defer></script>
     <meta charset="utf-8" />
-    <title>Security Fundamentals</title>
+    <title>Understanding Network Architecture and Protocols: A Comprehensive Guide | Security Fundamentals</title>
     <meta name="robots" content="noindex">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="This tutorial provides a comprehensive overview of network architecture, including the OSI model, TCP/IP protocol suite, IP addressing, and common network protocols.">
     <meta name="keywords" content="Documentation, Hugo, Hugo Theme, Bootstrap" />
     <meta name="author" content="Colin Wilson - Lotus Labs" />
     <meta name="email" content="support@aigis.uk" />
@@ -30,13 +31,15 @@
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/security-fundamentals/favicons/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/security-fundamentals/favicons/favicon-16x16.png">
 <link rel="manifest" crossorigin="use-credentials" href="http://localhost:1313/security-fundamentals/favicons/site.webmanifest">
-<meta property="og:title" content="Security Fundamentals" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://localhost:1313/security-fundamentals/docs/" /><meta property="og:image" content="http://localhost:1313/security-fundamentals/opengraph/card-base-2_hu06b1a92291a380a0d2e0ec03dab66b2f_17642_filter_10856496887081801373.png"/><meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="http://localhost:1313/security-fundamentals/opengraph/card-base-2_hu06b1a92291a380a0d2e0ec03dab66b2f_17642_filter_10856496887081801373.png"/>
-<meta name="twitter:title" content="Security Fundamentals"/>
-<meta name="twitter:description" content=""/>
+<meta property="og:title" content="Understanding Network Architecture and Protocols: A Comprehensive Guide" />
+<meta property="og:description" content="This tutorial provides a comprehensive overview of network architecture, including the OSI model, TCP/IP protocol suite, IP addressing, and common network protocols." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/security-fundamentals/docs/funda/funda/1/" /><meta property="og:image" content="http://localhost:1313/security-fundamentals/opengraph/card-base-2_hu06b1a92291a380a0d2e0ec03dab66b2f_17642_filter_1166829278439423901.png"/><meta property="article:section" content="docs" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://localhost:1313/security-fundamentals/opengraph/card-base-2_hu06b1a92291a380a0d2e0ec03dab66b2f_17642_filter_1166829278439423901.png"/>
+<meta name="twitter:title" content="Understanding Network Architecture and Protocols: A Comprehensive Guide"/>
+<meta name="twitter:description" content="This tutorial provides a comprehensive overview of network architecture, including the OSI model, TCP/IP protocol suite, IP addressing, and common network protocols."/>
 
     
     <script>(()=>{var t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,e=localStorage.getItem("theme");t&&e===null&&(localStorage.setItem("theme","dark"),document.documentElement.setAttribute("data-dark-mode","")),t&&e==="dark"&&document.documentElement.setAttribute("data-dark-mode",""),e==="dark"&&document.documentElement.setAttribute("data-dark-mode","")})()</script>
@@ -136,12 +139,12 @@
                 
                     
                     
-                        <li class="sidebar-dropdown  ">
+                        <li class="sidebar-dropdown  current active">
                             <button class="btn">
                                 <i class="material-icons me-2">code</i>
                                 Networking &amp; Security Fundamentals
                             </button>
-                            <div class="sidebar-submenu ">
+                            <div class="sidebar-submenu d-block">
                                 <ul>
                                     
                                         
@@ -156,7 +159,7 @@
                                     
                                         
                                         
-                                            <li class=" "><a class="sidebar-nested-link" href="http://localhost:1313/security-fundamentals/docs/funda/funda/1/">Understanding Network Architecture and Protocols: A Comprehensive Guide</a></li>
+                                            <li class="current "><a class="sidebar-nested-link" href="http://localhost:1313/security-fundamentals/docs/funda/funda/1/">Understanding Network Architecture and Protocols: A Comprehensive Guide</a></li>
                                         
                                     
                                 </ul>
@@ -302,10 +305,26 @@
                                     <div class="d-md-flex justify-content-between align-items-center"><nav aria-label="breadcrumb" class="d-inline-block pb-2 mt-1 mt-sm-0">
     <ul id="breadcrumbs" class="breadcrumb bg-transparent mb-0" itemscope itemtype="https://schema.org/BreadcrumbList">
         
+            
+                <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/security-fundamentals/docs/">
+                        <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
+                    </a>
+                    <meta itemprop="position" content='1' />
+                </li>
+            
+            
+                <li class="breadcrumb-item text-capitalize" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/security-fundamentals/docs/funda/">
+                        <span itemprop="name">Networking &amp; Security Fundamentals</span>
+                    </a>
+                    <meta itemprop="position" content='2' />
+                </li>
+            
         
-            <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-                <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
-                <meta itemprop="position" content='1' />
+            <li class="breadcrumb-item text-capitalize active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">Understanding Network Architecture and Protocols: A Comprehensive Guide</span>
+                <meta itemprop="position" content='3' />
             </li>
         
     </ul>
@@ -313,111 +332,150 @@
                                 
                                 <div class="row flex-xl-nowrap">
                                     
-                                    <div class="docs-toc col-xl-3 visually-hidden visually-hidden  d-xl-block"><toc>
+                                    <div class="docs-toc col-xl-3    d-xl-block"><toc>
     <div class="fw-bold text-uppercase mb-2">On this page</div>
-    <nav id="toc"></nav>
+    <nav id="toc">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#the-osi-model">The OSI Model</a></li>
+        <li><a href="#the-tcpip-protocol-suite">The TCP/IP Protocol Suite</a></li>
+        <li><a href="#ip-addressing">IP Addressing</a></li>
+        <li><a href="#common-network-protocols">Common Network Protocols</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
     </toc></div>
                                     
                                     
-                                    <div class="docs-toc-mobile visually-hidden visually-hidden  d-print-none d-xl-none">
+                                    <div class="docs-toc-mobile    d-print-none d-xl-none">
                                         <button id="toc-dropdown-btn" class="btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" data-bs-offset="0,0" aria-expanded="false">
                                             Table of Contents
                                         </button>
-<nav id="toc-mobile"></nav></div>
-                                    <div class="docs-content col-12  mt-0">
+<nav id="toc-mobile">
+  <ul class="dropdown-menu">
+    <li>
+      <ul>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#the-osi-model">The OSI Model</a></li>
+        <li><a href="#the-tcpip-protocol-suite">The TCP/IP Protocol Suite</a></li>
+        <li><a href="#ip-addressing">IP Addressing</a></li>
+        <li><a href="#common-network-protocols">Common Network Protocols</a></li>
+        <li><a href="#conclusion">Conclusion</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+                                    <div class="docs-content col-12 col-xl-9 mt-0">
                                         <div class="mb-0 d-flex">
                                             
-                                            <i class="material-icons title-icon me-2">article</i>
+                                            <i class="material-icons title-icon me-2">code</i>
                                             
                                             <h1 class="content-title mb-0">
-                                                Security Fundamentals
+                                                Understanding Network Architecture and Protocols: A Comprehensive Guide
                                                 
                                             </h1>
                                         </div>
                                         
-                                            <p class="lead mb-3"></p>
+                                            <p class="lead mb-3">This tutorial provides a comprehensive overview of network architecture, including the OSI model, TCP/IP protocol suite, IP addressing, and common network protocols.</p>
                                         
                                         <div id="content" class="main-content" data-bs-spy="scroll" data-bs-root-margin="0px 0px -65%" data-bs-target="#toc-mobile">
                                             
-    <div class="row flex-xl-wrap">
-        
-        <div id="list-item" class="col-md-4 col-12 mt-4 pt-2">
-            <a class="text-decoration-none text-reset" href="http://localhost:1313/security-fundamentals/docs/hacks/">
-                <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-                    <div class="card-image" style="background-image: url('https://armur-ai.github.io/armur-blog-apisec/images/api.jpg'); background-size: cover; background-position: center; height: 200px; border-radius: 6px;">
-                    </div>
-                    <div class="card-content d-flex flex-column justify-content-end mt-auto" style="margin-top: -40px;">
-                        <span class="icon-color d-flex my-2">
-                            
-                        </span>
-                        <div class="card-body p-0 content mt-auto">
-                            <p class="fs-5 fw-semibold card-title mb-1">Ethical Hacking &amp; Penetration Testing</p>
-                            <p class="para card-text mb-0">In-depth exploration of ethical hacking and penetration testing methodologies, tools, and best …</p>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </div>
-        
-        <div id="list-item" class="col-md-4 col-12 mt-4 pt-2">
-            <a class="text-decoration-none text-reset" href="http://localhost:1313/security-fundamentals/docs/reverse/">
-                <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-                    <div class="card-image" style="background-image: url('https://armur-ai.github.io/armur-blog-apisec/images/api.jpg'); background-size: cover; background-position: center; height: 200px; border-radius: 6px;">
-                    </div>
-                    <div class="card-content d-flex flex-column justify-content-end mt-auto" style="margin-top: -40px;">
-                        <span class="icon-color d-flex my-2">
-                            
-                        </span>
-                        <div class="card-body p-0 content mt-auto">
-                            <p class="fs-5 fw-semibold card-title mb-1">Malware Analysis &amp; Reverse Engineering</p>
-                            <p class="para card-text mb-0">In-depth exploration of malware analysis techniques and reverse engineering methodologies.</p>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </div>
-        
-        <div id="list-item" class="col-md-4 col-12 mt-4 pt-2">
-            <a class="text-decoration-none text-reset" href="http://localhost:1313/security-fundamentals/docs/funda/">
-                <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-                    <div class="card-image" style="background-image: url('https://armur-ai.github.io/armur-blog-apisec/images/api.jpg'); background-size: cover; background-position: center; height: 200px; border-radius: 6px;">
-                    </div>
-                    <div class="card-content d-flex flex-column justify-content-end mt-auto" style="margin-top: -40px;">
-                        <span class="icon-color d-flex my-2">
-                            
-                        </span>
-                        <div class="card-body p-0 content mt-auto">
-                            <p class="fs-5 fw-semibold card-title mb-1">Networking &amp; Security Fundamentals</p>
-                            <p class="para card-text mb-0">Comprehensive guide to networking and security fundamentals, covering key concepts, protocols, and …</p>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </div>
-        
-        <div id="list-item" class="col-md-4 col-12 mt-4 pt-2">
-            <a class="text-decoration-none text-reset" href="http://localhost:1313/security-fundamentals/docs/web/">
-                <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-                    <div class="card-image" style="background-image: url('https://armur-ai.github.io/armur-blog-apisec/images/api.jpg'); background-size: cover; background-position: center; height: 200px; border-radius: 6px;">
-                    </div>
-                    <div class="card-content d-flex flex-column justify-content-end mt-auto" style="margin-top: -40px;">
-                        <span class="icon-color d-flex my-2">
-                            
-                        </span>
-                        <div class="card-body p-0 content mt-auto">
-                            <p class="fs-5 fw-semibold card-title mb-1">Web Application Security</p>
-                            <p class="para card-text mb-0">Detailed insights into web application security, including vulnerabilities, secure coding practices, …</p>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </div>
-        
+    
+    <div data-prismjs-copy="" data-prismjs-copy-success="" data-prismjs-copy-error="">
+        <h2 id="introduction">Introduction <a href="#introduction" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h2><p>Understanding network architecture and protocols is fundamental to anyone working in cybersecurity or networking. This tutorial provides a comprehensive overview of key concepts, including the OSI model, TCP/IP protocol suite, IP addressing, and common network protocols like HTTP and DNS.</p>
+<h2 id="the-osi-model">The OSI Model <a href="#the-osi-model" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h2><p>The Open Systems Interconnection (OSI) model is a conceptual framework that standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. It divides the communication process into seven layers:</p>
+<ol>
+<li><strong>Physical Layer:</strong> Deals with the physical transmission of data as bits over a physical medium like cables or wireless signals.
+*   <strong>Key Concepts:</strong> Cabling, connectors, signal encoding, modulation.
+*   <strong>Examples:</strong> Ethernet cables, Wi-Fi radio waves.</li>
+<li><strong>Data Link Layer:</strong> Provides error-free transmission of data frames over a single physical link.
+*   <strong>Key Concepts:</strong> MAC addressing, error detection and correction, flow control.
+*   <strong>Examples:</strong> Ethernet, Wi-Fi, PPP.</li>
+<li><strong>Network Layer:</strong> Handles the logical addressing and routing of data packets between networks.
+*   <strong>Key Concepts:</strong> IP addressing, routing protocols, subnetting.
+*   <strong>Examples:</strong> IP (IPv4 and IPv6), ICMP, RIP, OSPF.</li>
+<li><strong>Transport Layer:</strong> Ensures reliable and ordered delivery of data segments between applications.
+*   <strong>Key Concepts:</strong> Port numbers, segmentation and reassembly, flow control, error control.
+*   <strong>Examples:</strong> TCP, UDP.</li>
+<li><strong>Session Layer:</strong> Establishes, manages, and terminates communication sessions between applications.
+*   <strong>Key Concepts:</strong> Session establishment, synchronization, dialogue control.
+*   <strong>Examples:</strong> NetBIOS, RPC.</li>
+<li><strong>Presentation Layer:</strong> Handles data formatting, encryption, and decryption for application compatibility.
+*   <strong>Key Concepts:</strong> Data encryption, data compression, data conversion.
+*   <strong>Examples:</strong> SSL/TLS, ASCII, JPEG.</li>
+<li><strong>Application Layer:</strong> Provides network services to applications, such as email (SMTP), web browsing (HTTP), and file transfer (FTP).
+*   <strong>Key Concepts:</strong> Application-specific protocols, user interface.
+*   <strong>Examples:</strong> HTTP, HTTPS, FTP, DNS, SMTP, POP3, IMAP.</li>
+</ol>
+<p><strong>Benefits of the OSI Model:</strong></p>
+<ul>
+<li>Standardization: Facilitates interoperability between different network devices and vendors.</li>
+<li>Troubleshooting: Helps isolate problems to specific layers for easier debugging.</li>
+<li>Modularity: Allows for changes in one layer without affecting other layers.</li>
+</ul>
+<h2 id="the-tcpip-protocol-suite">The TCP/IP Protocol Suite <a href="#the-tcpip-protocol-suite" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h2><p>The TCP/IP protocol suite is a set of networking protocols that governs communication on the internet and other networks. It is named after its two core protocols: TCP and IP. It is a more practical model compared to the OSI model, focusing on functionality rather than strict layering.</p>
+<ul>
+<li><strong>Link Layer:</strong> Corresponds to the physical and data link layers of the OSI model. Handles the physical transmission of data over a network medium.</li>
+<li><strong>Internet Layer:</strong> Equivalent to the network layer of the OSI model. Responsible for addressing and routing packets across networks using IP.</li>
+<li><strong>Transport Layer:</strong> Matches the transport layer of the OSI model. Provides end-to-end communication between applications using TCP and UDP.</li>
+<li><strong>Application Layer:</strong> Combines the session, presentation, and application layers of the OSI model. Includes protocols for various applications like HTTP, FTP, DNS, and email protocols.</li>
+</ul>
+<h2 id="ip-addressing">IP Addressing <a href="#ip-addressing" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h2><p>IP addresses are unique numerical identifiers assigned to devices on a network. They allow devices to communicate with each other.</p>
+<ul>
+<li><strong>IPv4:</strong> Uses 32-bit addresses, represented as four sets of decimal numbers separated by dots (e.g., 192.168.1.1). Each number ranges from 0 to 255.
+*   <strong>Classes:</strong> IPv4 addresses are classified into classes (A, B, C, D, E) based on the first few bits, determining the network and host portions of the address.
+*   <strong>Private IP Addresses:</strong> Reserved for internal networks and not routable on the public internet (e.g., 192.168.0.0/16, 10.0.0.0/8).</li>
+<li><strong>IPv6:</strong> Uses 128-bit addresses, represented as eight sets of hexadecimal numbers separated by colons (e.g., 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+*   <strong>Advantages:</strong> Larger address space, improved security features, simplified header structure.</li>
+</ul>
+<p><strong>Subnetting</strong> is the process of dividing a network into smaller, logical subnetworks. It improves network efficiency and security by:</p>
+<ul>
+<li>Reducing network congestion.</li>
+<li>Improving network performance.</li>
+<li>Enhancing security by isolating different parts of the network.</li>
+<li>Simplifying network management.</li>
+</ul>
+<p><strong>Subnet Mask:</strong> A 32-bit value used to identify the network portion of an IP address.</p>
+<h2 id="common-network-protocols">Common Network Protocols <a href="#common-network-protocols" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h2><p>Several protocols operate at different layers of the OSI model to facilitate various network services:</p>
+<ul>
+<li><strong>HTTP (Hypertext Transfer Protocol):</strong> Used for communication between web browsers and web servers. It&rsquo;s the foundation of the World Wide Web.
+*   <strong>Methods:</strong> GET, POST, PUT, DELETE are common HTTP methods used for requesting and manipulating web resources.</li>
+<li><strong>HTTPS (Hypertext Transfer Protocol Secure):</strong> Encrypted version of HTTP for secure communication. It uses SSL/TLS to encrypt data transmitted between the client and server.</li>
+<li><strong>FTP (File Transfer Protocol):</strong> Used for transferring files between a client and a server. Supports various transfer modes (binary, ASCII) and commands (STOR, RETR).</li>
+<li><strong>DNS (Domain Name System):</strong> Translates domain names (e.g., google.com) into IP addresses. It&rsquo;s a hierarchical, distributed database that maps human-readable domain names to machine-readable IP addresses.</li>
+<li><strong>DHCP (Dynamic Host Configuration Protocol):</strong> Automatically assigns IP addresses and other network configuration parameters to devices. Simplifies network administration and allows devices to join a network easily.</li>
+<li><strong>SMTP (Simple Mail Transfer Protocol):</strong> Used for sending emails. Relies on a mail server to route emails to their destination.</li>
+<li><strong>POP3 (Post Office Protocol version 3) and IMAP (Internet Message Access Protocol):</strong> Used for retrieving emails. POP3 downloads emails to the client, while IMAP allows accessing emails on the server.</li>
+</ul>
+<h2 id="conclusion">Conclusion <a href="#conclusion" class="anchor" aria-hidden="true"><i class="material-icons align-middle">link</i></a></h2><p>Understanding network architecture and protocols is crucial for cybersecurity professionals and network administrators. This knowledge helps in troubleshooting network issues, implementing security measures, and analyzing network traffic.</p>
+<p>This tutorial has provided a foundational overview of key concepts. Further exploration of each topic is recommended for a deeper understanding. You can delve into specific protocols, subnetting techniques, and network troubleshooting methodologies to enhance your expertise in network fundamentals.</p>
+
     </div>
 
+    
+
+    
                                         </div>
                                         <div><hr class="doc-hr">
 <div id="doc-nav" class="d-print-none">
+
+	<div class="row flex-xl-nowrap ">
+	<div class="col-sm-6 pt-2 doc-next">
+		<a href="/security-fundamentals/docs/web/web/2/">
+			<div class="card h-100 my-1">
+				<div class="card-body py-2">
+                    <p class="card-title fs-5 fw-semibold lh-base mb-0"><i class="material-icons align-middle">navigate_before</i> OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities</p>
+					<p class="card-text ms-2">Explore the OWASP API Security …</p>
+					
+				</div>
+			</div>
+		</a>
+        </div>
+	</div>
 </div></div>
                                     </div>
                                 </div>
