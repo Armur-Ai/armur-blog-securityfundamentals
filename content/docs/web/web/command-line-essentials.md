@@ -1,7 +1,7 @@
 ---
 title: "Command Line Essentials: A Comprehensive Guide to Terminal Mastery for System Security"
 description: "Master the essential command line skills needed for system security. Learn powerful terminal commands, syntax, and best practices to enhance your security operations."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/4.avif"
 icon: "code"
 draft: false
 ---

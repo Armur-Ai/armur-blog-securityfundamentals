@@ -1,7 +1,7 @@
 ---
 title: "Understanding Red Team vs Blue Team: A Comprehensive Guide to Cybersecurity Defense Roles"
 description: "Learn the fundamental differences between Red Team and Blue Team roles in cybersecurity, their responsibilities, and how they work together to strengthen organizational security posture."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/1.avif"
 icon: "code"
 draft: false
 ---

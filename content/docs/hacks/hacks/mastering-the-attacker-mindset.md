@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Attacker Mindset: A Comprehensive Guide to Offensive Security Methodology"
 description: "Learn how to develop an effective attacker mindset and understand core offensive security methodologies. This comprehensive guide helps security professionals think like hackers to better defend systems."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/2.avif"
 icon: "code"
 draft: false
 ---

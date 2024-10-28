@@ -1,7 +1,7 @@
 ---
 title: "Guide to Threat Detection: Understanding Core Principles and Implementation Strategies"
 description: "Master the fundamentals of threat detection in cybersecurity. Learn about detection methods, tools, and best practices to protect your organization from emerging security threats."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/3.avif"
 icon: "code"
 draft: false
 ---

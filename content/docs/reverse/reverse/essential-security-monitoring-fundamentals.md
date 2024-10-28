@@ -1,7 +1,7 @@
 ---
 title: "Security Monitoring Fundamentals: A Comprehensive Guide to Protecting Your Digital Assets"
 description: "Learn the core principles of security monitoring, including tools, techniques, and best practices to effectively detect and respond to security threats in your organization's infrastructure."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/3.avif"
 icon: "code"
 draft: false
 ---

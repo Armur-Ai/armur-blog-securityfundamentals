@@ -1,7 +1,7 @@
 ---
 title: "Understanding Windows and Active Directory Security Fundamentals"
 description: "Master the fundamentals of Windows and Active Directory security with our comprehensive guide covering authentication, access controls, group policies, and best practices for securing your enterprise environment."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/4.avif"
 icon: "code"
 draft: false
 ---

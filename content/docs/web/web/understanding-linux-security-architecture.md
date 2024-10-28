@@ -1,7 +1,7 @@
 ---
 title: "Understanding Linux Security Architecture: A Comprehensive Guide to System Protection"
 description: "Master the fundamentals of Linux Security Architecture in this comprehensive guide. Learn about DAC, MAC, user permissions, and essential security mechanisms to protect your Linux systems effectively."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/4.avif"
 icon: "code"
 draft: false
 ---
