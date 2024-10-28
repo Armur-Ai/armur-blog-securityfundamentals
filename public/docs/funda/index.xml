@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Networking &amp; Security Fundamentals on Security Fundamentals</title>
+    <title>Security Team Fundamentals on Security Fundamentals</title>
     <link>http://localhost:1313/security-fundamentals/docs/funda/</link>
-    <description>Recent content in Networking &amp; Security Fundamentals on Security Fundamentals</description>
+    <description>Recent content in Security Team Fundamentals on Security Fundamentals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/security-fundamentals/docs/funda/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>nderstanding Network Architecture and Protocols: A Comprehensive Guide</title>
-      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/1/</link>
+      <title>Purple Team Security: A Comprehensive Guide to Collaborative Security Testing</title>
+      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/purple-team-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/1/</guid>
-      <description>## Introduction&#xD;Understanding network architecture and protocols is fundamental to anyone working in cybersecurity or networking. This tutorial provides a comprehensive overview of key concepts, including the OSI model, TCP/IP protocol suite, IP addressing, and common network protocols like HTTP and DNS. ## The OSI Model&#xD;The Open Systems Interconnection (OSI) model is a conceptual framework that standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.</description>
+      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/purple-team-security/</guid>
+      <description>Introduction linkPurple teaming represents a modern approach to cybersecurity that bridges the traditional gap between offensive (Red Team) and defensive (Blue Team) security operations. This collaborative methodology has become increasingly important as organizations face more sophisticated cyber threats. In this comprehensive guide, we&amp;rsquo;ll explore the fundamentals of Purple Team operations and how they can strengthen your organization&amp;rsquo;s security posture.&#xA;Understanding Purple Team Fundamentals linkPurple teaming isn&amp;rsquo;t simply combining Red and Blue teams; it&amp;rsquo;s a sophisticated approach that creates a continuous feedback loop between offensive and defensive security measures.</description>
     </item>
     <item>
-      <title>Network Attacks and Defenses: Understanding and Mitigating Common Threats</title>
-      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/3/</link>
+      <title>Understanding Offensive vs Defensive Security: A Comprehensive Guide for Security Teams</title>
+      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/offensive-vs-defensive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/3/</guid>
-      <description>## Introduction&#xD;Understanding common network attacks is crucial for implementing effective defense strategies and protecting your network from malicious actors. This tutorial explores some prevalent network attack methods like Denial-of-Service (DoS/DDoS), Man-in-the-Middle (MitM), and ARP spoofing. We&#39;ll also discuss security hardening techniques to mitigate these threats and enhance your network&#39;s overall security posture.&#xD;## Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks&#xD;DoS and DDoS attacks aim to overwhelm a network, server, or online service with traffic, making it unavailable to legitimate users.</description>
+      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/offensive-vs-defensive/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, understanding the distinction between offensive and defensive security is crucial for building an effective security program. These two approaches, while seemingly opposite, work in harmony to create a comprehensive security strategy. This guide will explore both sides of the security spectrum, their methodologies, and how organizations can leverage them effectively.&#xA;Offensive Security: The Proactive Approach linkOffensive security, often called &amp;ldquo;red teaming&amp;rdquo; or &amp;ldquo;ethical hacking,&amp;rdquo; involves actively testing and attempting to breach systems to identify vulnerabilities before malicious actors can exploit them.</description>
     </item>
     <item>
-      <title>Network Security Essentials: Protecting Your Network from Threats</title>
-      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/2/</link>
+      <title>Understanding Red Team vs Blue Team: A Comprehensive Guide to Cybersecurity Defense Roles</title>
+      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/understanding-red-team-vs-blue-team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/2/</guid>
-      <description>## Introduction&#xD;Network security is paramount in today&#39;s interconnected world, where cyber threats are constantly evolving. This tutorial explores essential tools and techniques to protect your network from various threats, including firewalls, intrusion detection and prevention systems (IDS/IPS), VPNs, wireless security, and network monitoring with Wireshark. ## Firewalls&#xD;Firewalls are the first line of defense in network security. They act as a barrier between your network and the outside world, filtering network traffic based on pre-defined rules.</description>
+      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/understanding-red-team-vs-blue-team/</guid>
+      <description>In today&amp;rsquo;s rapidly evolving cybersecurity landscape, organizations must maintain robust security measures to protect their digital assets. Two crucial components of a comprehensive security strategy are Red Teams and Blue Teams. These specialized groups work from different angles but share the common goal of strengthening an organization&amp;rsquo;s security posture. Let&amp;rsquo;s dive deep into understanding these roles and their significance in modern cybersecurity.&#xA;What are Red Teams? linkRed Teams are groups of security professionals who act as ethical hackers, simulating real-world cyber attacks to test an organization&amp;rsquo;s security defenses.</description>
     </item>
   </channel>
 </rss>

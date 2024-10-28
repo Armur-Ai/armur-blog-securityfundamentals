@@ -1,7 +1,7 @@
 ---
-title: "Malware Analysis & Reverse Engineering"
-description: "In-depth exploration of malware analysis techniques and reverse engineering methodologies."
-image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/reverse.png"
+title: "Defensive Security Essentials"
+description: "A beginner’s guide for Defensive Security practices"
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/3.avif"
 icon: "code"
 draft: false
 ---

@@ -8,67 +8,88 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/security-fundamentals/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mastering API Basics: Architectures, Methods, and Documentation</title>
-      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/1/</link>
+      <title>Attack Tools for Beginners: A Comprehensive Guide to Offensive Security Fundamentals</title>
+      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-attack-tools-for-beginners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-attack-tools-for-beginners/</guid>
+      <description>Introduction linkIn the realm of offensive security, having a solid understanding of basic attack tools is crucial for any aspiring security professional. This comprehensive guide will walk you through the essential tools that form the foundation of penetration testing and ethical hacking. Whether you&amp;rsquo;re a beginner or looking to refresh your knowledge, this tutorial will help you understand the fundamental tools used in offensive security assessments.&#xA;Understanding the Basics linkBefore diving into specific tools, it&amp;rsquo;s important to understand that offensive security tools should only be used in authorized environments with proper permissions.</description>
     </item>
     <item>
-      <title>Mastering API Basics: Architectures, Methods, and Documentation</title>
-      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/1/</link>
+      <title>Command Line Essentials: A Comprehensive Guide to Terminal Mastery for System Security</title>
+      <link>http://localhost:1313/security-fundamentals/docs/web/web/command-line-essentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/web/web/command-line-essentials/</guid>
+      <description>Introduction to Command Line Interface linkThe command line interface (CLI) is a fundamental tool in system security, providing direct interaction with the operating system through text-based commands. Understanding CLI is crucial for security professionals, system administrators, and anyone interested in system security. This comprehensive guide will walk you through the essential aspects of command line operations, focusing on security-related applications.&#xA;Why Command Line Matters in Security linkThe command line interface offers several advantages over graphical user interfaces (GUIs) when it comes to security operations.</description>
     </item>
     <item>
-      <title>Mastering API Basics: Architectures, Methods, and Documentation</title>
-      <link>http://localhost:1313/security-fundamentals/docs/web/web/1/</link>
+      <title>Essential Guide to Common Exploitation Methods in Offensive Security: A Beginner&#39;s Roadmap</title>
+      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-guide-to-common-exploitation-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/web/web/1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-guide-to-common-exploitation-methods/</guid>
+      <description>Introduction to Common Exploitation Methods linkIn the realm of offensive security, understanding common exploitation methods is crucial for both ethical hackers and cybersecurity professionals. This comprehensive guide will walk you through the fundamental exploitation techniques used in penetration testing and security assessments. Whether you&amp;rsquo;re beginning your journey in offensive security or looking to strengthen your knowledge, this tutorial will provide you with essential insights into the most prevalent exploitation methods.</description>
     </item>
     <item>
-      <title>Network Attacks and Defenses: Understanding and Mitigating Common Threats</title>
-      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/3/</link>
+      <title>Guide to Threat Detection: Understanding Core Principles and Implementation Strategies</title>
+      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-guide-to-threat-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/3/</guid>
-      <description>Introduction linkUnderstanding common network attacks is crucial for implementing effective defense strategies and protecting your network from malicious actors. This tutorial explores some prevalent network attack methods like Denial-of-Service (DoS/DDoS), Man-in-the-Middle (MitM), and ARP spoofing. We&amp;rsquo;ll also discuss security hardening techniques to mitigate these threats and enhance your network&amp;rsquo;s overall security posture.&#xA;Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks linkDoS and DDoS attacks aim to overwhelm a network, server, or online service with traffic, making it unavailable to legitimate users.</description>
+      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-guide-to-threat-detection/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s rapidly evolving digital landscape, threat detection has become a crucial component of any organization&amp;rsquo;s security infrastructure. As cyber threats become more sophisticated and frequent, understanding the fundamentals of threat detection is essential for security professionals, IT administrators, and business leaders alike. This comprehensive guide will explore the core concepts of threat detection, its implementation, and best practices for maintaining a robust security posture.&#xA;Understanding Threat Detection linkThreat detection is the practice of analyzing the entire IT environment to identify any malicious activities or security incidents that could compromise system integrity, data confidentiality, or business operations.</description>
     </item>
     <item>
-      <title>Network Security Essentials: Protecting Your Network from Threats</title>
-      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/2/</link>
+      <title>Mastering the Attacker Mindset: A Comprehensive Guide to Offensive Security Methodology</title>
+      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/mastering-the-attacker-mindset/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/2/</guid>
-      <description>Introduction linkNetwork security is paramount in today&amp;rsquo;s interconnected world, where cyber threats are constantly evolving. This tutorial explores essential tools and techniques to protect your network from various threats, including firewalls, intrusion detection and prevention systems (IDS/IPS), VPNs, wireless security, and network monitoring with Wireshark.&#xA;Firewalls linkFirewalls are the first line of defense in network security. They act as a barrier between your network and the outside world, filtering network traffic based on pre-defined rules.</description>
+      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/mastering-the-attacker-mindset/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, understanding how attackers think and operate is crucial for building robust defense strategies. This comprehensive guide explores the fundamental aspects of developing an attacker mindset and implementing effective offensive security methodologies. Whether you&amp;rsquo;re a security professional, penetration tester, or aspiring ethical hacker, mastering these concepts will enhance your ability to identify and mitigate potential security threats.&#xA;Understanding the Attacker Mindset linkThe attacker mindset is more than just knowing various hacking techniques – it&amp;rsquo;s about adopting a particular way of thinking that allows you to identify potential vulnerabilities and weaknesses in systems.</description>
     </item>
     <item>
-      <title>OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities</title>
-      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/2/</link>
+      <title>Purple Team Security: A Comprehensive Guide to Collaborative Security Testing</title>
+      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/purple-team-security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/purple-team-security/</guid>
+      <description>Introduction linkPurple teaming represents a modern approach to cybersecurity that bridges the traditional gap between offensive (Red Team) and defensive (Blue Team) security operations. This collaborative methodology has become increasingly important as organizations face more sophisticated cyber threats. In this comprehensive guide, we&amp;rsquo;ll explore the fundamentals of Purple Team operations and how they can strengthen your organization&amp;rsquo;s security posture.&#xA;Understanding Purple Team Fundamentals linkPurple teaming isn&amp;rsquo;t simply combining Red and Blue teams; it&amp;rsquo;s a sophisticated approach that creates a continuous feedback loop between offensive and defensive security measures.</description>
     </item>
     <item>
-      <title>OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities</title>
-      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/2/</link>
+      <title>Security Monitoring Fundamentals: A Comprehensive Guide to Protecting Your Digital Assets</title>
+      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-security-monitoring-fundamentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-security-monitoring-fundamentals/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s increasingly connected world, security monitoring has become a critical component of any organization&amp;rsquo;s cybersecurity strategy. As cyber threats continue to evolve and become more sophisticated, understanding the fundamentals of security monitoring is essential for protecting digital assets and maintaining a robust security posture. This comprehensive guide will walk you through the essential aspects of security monitoring and help you establish an effective monitoring framework.&#xA;Understanding Security Monitoring linkSecurity monitoring is the continuous observation and analysis of network systems, devices, and activities to detect potential security threats, vulnerabilities, and suspicious behavior.</description>
     </item>
     <item>
-      <title>OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities</title>
-      <link>http://localhost:1313/security-fundamentals/docs/web/web/2/</link>
+      <title>Understanding Linux Security Architecture: A Comprehensive Guide to System Protection</title>
+      <link>http://localhost:1313/security-fundamentals/docs/web/web/understanding-linux-security-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/web/web/2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/web/web/understanding-linux-security-architecture/</guid>
+      <description>Linux has established itself as one of the most secure operating systems available, thanks to its robust security architecture. In this comprehensive guide, we&amp;rsquo;ll explore the fundamental components of Linux security architecture and understand how they work together to protect your system from various threats.&#xA;Introduction to Linux Security Architecture linkLinux security architecture is built upon multiple layers of protection that work in harmony to ensure system integrity, data confidentiality, and user authentication.</description>
     </item>
     <item>
-      <title>Understanding Network Architecture and Protocols: A Comprehensive Guide</title>
-      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/1/</link>
+      <title>Understanding Offensive vs Defensive Security: A Comprehensive Guide for Security Teams</title>
+      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/offensive-vs-defensive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/1/</guid>
-      <description>Introduction linkUnderstanding network architecture and protocols is fundamental to anyone working in cybersecurity or networking. This tutorial provides a comprehensive overview of key concepts, including the OSI model, TCP/IP protocol suite, IP addressing, and common network protocols like HTTP and DNS.&#xA;The OSI Model linkThe Open Systems Interconnection (OSI) model is a conceptual framework that standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology.</description>
+      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/offensive-vs-defensive/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, understanding the distinction between offensive and defensive security is crucial for building an effective security program. These two approaches, while seemingly opposite, work in harmony to create a comprehensive security strategy. This guide will explore both sides of the security spectrum, their methodologies, and how organizations can leverage them effectively.&#xA;Offensive Security: The Proactive Approach linkOffensive security, often called &amp;ldquo;red teaming&amp;rdquo; or &amp;ldquo;ethical hacking,&amp;rdquo; involves actively testing and attempting to breach systems to identify vulnerabilities before malicious actors can exploit them.</description>
+    </item>
+    <item>
+      <title>Understanding Red Team vs Blue Team: A Comprehensive Guide to Cybersecurity Defense Roles</title>
+      <link>http://localhost:1313/security-fundamentals/docs/funda/funda/understanding-red-team-vs-blue-team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security-fundamentals/docs/funda/funda/understanding-red-team-vs-blue-team/</guid>
+      <description>In today&amp;rsquo;s rapidly evolving cybersecurity landscape, organizations must maintain robust security measures to protect their digital assets. Two crucial components of a comprehensive security strategy are Red Teams and Blue Teams. These specialized groups work from different angles but share the common goal of strengthening an organization&amp;rsquo;s security posture. Let&amp;rsquo;s dive deep into understanding these roles and their significance in modern cybersecurity.&#xA;What are Red Teams? linkRed Teams are groups of security professionals who act as ethical hackers, simulating real-world cyber attacks to test an organization&amp;rsquo;s security defenses.</description>
+    </item>
+    <item>
+      <title>Understanding Security Operations Center (SOC): A Comprehensive Guide to Modern Cyber Defense</title>
+      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/understanding-security-operations-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/understanding-security-operations-center/</guid>
+      <description>In today&amp;rsquo;s rapidly evolving digital landscape, cybersecurity threats have become increasingly sophisticated and prevalent. Organizations face numerous challenges in protecting their digital assets, making the role of a Security Operations Center (SOC) more crucial than ever. This comprehensive guide will explore what a SOC is, its essential components, and how it functions as the cornerstone of an organization&amp;rsquo;s cybersecurity strategy.&#xA;What is a Security Operations Center (SOC)? linkA Security Operations Center is a centralized unit that employs people, processes, and technology to continuously monitor, prevent, detect, investigate, and respond to cyber threats.</description>
+    </item>
+    <item>
+      <title>Understanding Windows and Active Directory Security Fundamentals</title>
+      <link>http://localhost:1313/security-fundamentals/docs/web/web/windows-and-active-directory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security-fundamentals/docs/web/web/windows-and-active-directory/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected enterprise environments, securing Windows systems and Active Directory (AD) infrastructure has become more critical than ever. This comprehensive guide will walk you through the essential concepts and practical implementations of Windows and Active Directory security, helping you build a robust security foundation for your organization.&#xA;Understanding Windows Security Architecture linkWindows security architecture is built on several key components that work together to ensure system integrity and data protection.</description>
     </item>
   </channel>
 </rss>

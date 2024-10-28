@@ -1,7 +1,7 @@
 ---
-title: "Ethical Hacking & Penetration Testing"
-description: "In-depth exploration of ethical hacking and penetration testing methodologies, tools, and best practices."
-image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/ethical.jpg"
+title: "Getting Started with Offensive Security"
+description: "A beginner’s guide to proactive security testing and sec fundamentals."
+image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/2.avif"
 icon: "code"
 draft: false
 ---

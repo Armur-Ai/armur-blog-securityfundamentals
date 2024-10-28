@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web Application Security on Security Fundamentals</title>
+    <title>System Security Foundations on Security Fundamentals</title>
     <link>http://localhost:1313/security-fundamentals/docs/web/</link>
-    <description>Recent content in Web Application Security on Security Fundamentals</description>
+    <description>Recent content in System Security Foundations on Security Fundamentals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/security-fundamentals/docs/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mastering API Basics: Architectures, Methods, and Documentation</title>
-      <link>http://localhost:1313/security-fundamentals/docs/web/web/1/</link>
+      <title>Command Line Essentials: A Comprehensive Guide to Terminal Mastery for System Security</title>
+      <link>http://localhost:1313/security-fundamentals/docs/web/web/command-line-essentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/web/web/1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/web/web/command-line-essentials/</guid>
+      <description>Introduction to Command Line Interface linkThe command line interface (CLI) is a fundamental tool in system security, providing direct interaction with the operating system through text-based commands. Understanding CLI is crucial for security professionals, system administrators, and anyone interested in system security. This comprehensive guide will walk you through the essential aspects of command line operations, focusing on security-related applications.&#xA;Why Command Line Matters in Security linkThe command line interface offers several advantages over graphical user interfaces (GUIs) when it comes to security operations.</description>
     </item>
     <item>
-      <title>OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities</title>
-      <link>http://localhost:1313/security-fundamentals/docs/web/web/2/</link>
+      <title>Understanding Linux Security Architecture: A Comprehensive Guide to System Protection</title>
+      <link>http://localhost:1313/security-fundamentals/docs/web/web/understanding-linux-security-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/web/web/2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/web/web/understanding-linux-security-architecture/</guid>
+      <description>Linux has established itself as one of the most secure operating systems available, thanks to its robust security architecture. In this comprehensive guide, we&amp;rsquo;ll explore the fundamental components of Linux security architecture and understand how they work together to protect your system from various threats.&#xA;Introduction to Linux Security Architecture linkLinux security architecture is built upon multiple layers of protection that work in harmony to ensure system integrity, data confidentiality, and user authentication.</description>
+    </item>
+    <item>
+      <title>Understanding Windows and Active Directory Security Fundamentals</title>
+      <link>http://localhost:1313/security-fundamentals/docs/web/web/windows-and-active-directory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security-fundamentals/docs/web/web/windows-and-active-directory/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s interconnected enterprise environments, securing Windows systems and Active Directory (AD) infrastructure has become more critical than ever. This comprehensive guide will walk you through the essential concepts and practical implementations of Windows and Active Directory security, helping you build a robust security foundation for your organization.&#xA;Understanding Windows Security Architecture linkWindows security architecture is built on several key components that work together to ensure system integrity and data protection.</description>
     </item>
   </channel>
 </rss>

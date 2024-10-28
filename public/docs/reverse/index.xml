@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Malware Analysis &amp; Reverse Engineering on Security Fundamentals</title>
+    <title>Defensive Security Essentials on Security Fundamentals</title>
     <link>http://localhost:1313/security-fundamentals/docs/reverse/</link>
-    <description>Recent content in Malware Analysis &amp; Reverse Engineering on Security Fundamentals</description>
+    <description>Recent content in Defensive Security Essentials on Security Fundamentals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/security-fundamentals/docs/reverse/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mastering API Basics: Architectures, Methods, and Documentation</title>
-      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/1/</link>
+      <title>Guide to Threat Detection: Understanding Core Principles and Implementation Strategies</title>
+      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-guide-to-threat-detection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-guide-to-threat-detection/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s rapidly evolving digital landscape, threat detection has become a crucial component of any organization&amp;rsquo;s security infrastructure. As cyber threats become more sophisticated and frequent, understanding the fundamentals of threat detection is essential for security professionals, IT administrators, and business leaders alike. This comprehensive guide will explore the core concepts of threat detection, its implementation, and best practices for maintaining a robust security posture.&#xA;Understanding Threat Detection linkThreat detection is the practice of analyzing the entire IT environment to identify any malicious activities or security incidents that could compromise system integrity, data confidentiality, or business operations.</description>
     </item>
     <item>
-      <title>OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities</title>
-      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/2/</link>
+      <title>Security Monitoring Fundamentals: A Comprehensive Guide to Protecting Your Digital Assets</title>
+      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-security-monitoring-fundamentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/essential-security-monitoring-fundamentals/</guid>
+      <description>Introduction linkIn today&amp;rsquo;s increasingly connected world, security monitoring has become a critical component of any organization&amp;rsquo;s cybersecurity strategy. As cyber threats continue to evolve and become more sophisticated, understanding the fundamentals of security monitoring is essential for protecting digital assets and maintaining a robust security posture. This comprehensive guide will walk you through the essential aspects of security monitoring and help you establish an effective monitoring framework.&#xA;Understanding Security Monitoring linkSecurity monitoring is the continuous observation and analysis of network systems, devices, and activities to detect potential security threats, vulnerabilities, and suspicious behavior.</description>
+    </item>
+    <item>
+      <title>Understanding Security Operations Center (SOC): A Comprehensive Guide to Modern Cyber Defense</title>
+      <link>http://localhost:1313/security-fundamentals/docs/reverse/reverse/understanding-security-operations-center/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security-fundamentals/docs/reverse/reverse/understanding-security-operations-center/</guid>
+      <description>In today&amp;rsquo;s rapidly evolving digital landscape, cybersecurity threats have become increasingly sophisticated and prevalent. Organizations face numerous challenges in protecting their digital assets, making the role of a Security Operations Center (SOC) more crucial than ever. This comprehensive guide will explore what a SOC is, its essential components, and how it functions as the cornerstone of an organization&amp;rsquo;s cybersecurity strategy.&#xA;What is a Security Operations Center (SOC)? linkA Security Operations Center is a centralized unit that employs people, processes, and technology to continuously monitor, prevent, detect, investigate, and respond to cyber threats.</description>
     </item>
   </channel>
 </rss>

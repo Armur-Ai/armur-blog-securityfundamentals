@@ -1,7 +1,7 @@
 ---
-title: "Web Application Security"
-description: "Detailed insights into web application security, including vulnerabilities, secure coding practices, and testing methodologies."
-image: "https://armur-ai.github.io/armur-blog-apisec/images/api.jpg"
+title: "System Security Foundations"
+description: "Core principles and methods for base in cybersecurity"
+image: "https://armur-ai.github.io/armur-blog-apisec/images/4.avif"
 icon: "code"
 draft: false
 ---

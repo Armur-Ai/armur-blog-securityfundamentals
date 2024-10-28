@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ethical Hacking &amp; Penetration Testing on Security Fundamentals</title>
+    <title>Getting Started with Offensive Security on Security Fundamentals</title>
     <link>http://localhost:1313/security-fundamentals/docs/hacks/</link>
-    <description>Recent content in Ethical Hacking &amp; Penetration Testing on Security Fundamentals</description>
+    <description>Recent content in Getting Started with Offensive Security on Security Fundamentals</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/security-fundamentals/docs/hacks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mastering API Basics: Architectures, Methods, and Documentation</title>
-      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/1/</link>
+      <title>Attack Tools for Beginners: A Comprehensive Guide to Offensive Security Fundamentals</title>
+      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-attack-tools-for-beginners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/1/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-attack-tools-for-beginners/</guid>
+      <description>Introduction linkIn the realm of offensive security, having a solid understanding of basic attack tools is crucial for any aspiring security professional. This comprehensive guide will walk you through the essential tools that form the foundation of penetration testing and ethical hacking. Whether you&amp;rsquo;re a beginner or looking to refresh your knowledge, this tutorial will help you understand the fundamental tools used in offensive security assessments.&#xA;Understanding the Basics linkBefore diving into specific tools, it&amp;rsquo;s important to understand that offensive security tools should only be used in authorized environments with proper permissions.</description>
     </item>
     <item>
-      <title>OWASP API Top 10: Understanding and Mitigating Key API Vulnerabilities</title>
-      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/2/</link>
+      <title>Essential Guide to Common Exploitation Methods in Offensive Security: A Beginner&#39;s Roadmap</title>
+      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-guide-to-common-exploitation-methods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/2/</guid>
-      <description></description>
+      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/essential-guide-to-common-exploitation-methods/</guid>
+      <description>Introduction to Common Exploitation Methods linkIn the realm of offensive security, understanding common exploitation methods is crucial for both ethical hackers and cybersecurity professionals. This comprehensive guide will walk you through the fundamental exploitation techniques used in penetration testing and security assessments. Whether you&amp;rsquo;re beginning your journey in offensive security or looking to strengthen your knowledge, this tutorial will provide you with essential insights into the most prevalent exploitation methods.</description>
+    </item>
+    <item>
+      <title>Mastering the Attacker Mindset: A Comprehensive Guide to Offensive Security Methodology</title>
+      <link>http://localhost:1313/security-fundamentals/docs/hacks/hacks/mastering-the-attacker-mindset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/security-fundamentals/docs/hacks/hacks/mastering-the-attacker-mindset/</guid>
+      <description>Introduction linkIn the ever-evolving landscape of cybersecurity, understanding how attackers think and operate is crucial for building robust defense strategies. This comprehensive guide explores the fundamental aspects of developing an attacker mindset and implementing effective offensive security methodologies. Whether you&amp;rsquo;re a security professional, penetration tester, or aspiring ethical hacker, mastering these concepts will enhance your ability to identify and mitigate potential security threats.&#xA;Understanding the Attacker Mindset linkThe attacker mindset is more than just knowing various hacking techniques – it&amp;rsquo;s about adopting a particular way of thinking that allows you to identify potential vulnerabilities and weaknesses in systems.</description>
     </item>
   </channel>
 </rss>
