@@ -1,12 +1,9 @@
 ---
 title: "Attack Tools for Beginners: A Comprehensive Guide to Offensive Security Fundamentals"
-description: "Learn the fundamental attack tools used in offensive security, including Nmap, Metasploit, and Wireshark. Perfect for beginners starting their journey in penetration testing and ethical hacking."
 image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/2.avif"
 icon: "code"
 draft: false
 ---
-
-### Introduction
 
 In the realm of offensive security, having a solid understanding of basic attack tools is crucial for any aspiring security professional. This comprehensive guide will walk you through the essential tools that form the foundation of penetration testing and ethical hacking. Whether you're a beginner or looking to refresh your knowledge, this tutorial will help you understand the fundamental tools used in offensive security assessments.
 

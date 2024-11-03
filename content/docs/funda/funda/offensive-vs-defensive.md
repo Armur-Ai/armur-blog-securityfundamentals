@@ -1,12 +1,9 @@
 ---
 title: "Understanding Offensive vs Defensive Security: A Comprehensive Guide for Security Teams"
-description: "Learn the fundamental differences between offensive and defensive security approaches, their roles in cybersecurity, and how they work together to create a robust security posture."
 image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/1.avif"
 icon: "code"
 draft: false
 ---
-
-## Introduction
 
 In the ever-evolving landscape of cybersecurity, understanding the distinction between offensive and defensive security is crucial for building an effective security program. These two approaches, while seemingly opposite, work in harmony to create a comprehensive security strategy. This guide will explore both sides of the security spectrum, their methodologies, and how organizations can leverage them effectively.
 

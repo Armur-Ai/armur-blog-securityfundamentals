@@ -1,6 +1,5 @@
 ---
 title: "Understanding Security Operations Center (SOC): A Comprehensive Guide to Modern Cyber Defense"
-description: "Learn everything about Security Operations Center (SOC), from its core functions and components to best practices in implementing an effective cyber defense strategy for your organization."
 image: "https://armur-ai.github.io/armur-blog-securityfundamentals/images/3.avif"
 icon: "code"
 draft: false
